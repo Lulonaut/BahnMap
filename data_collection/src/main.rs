@@ -54,7 +54,6 @@ fn main() -> eyre::Result<()> {
         simple_logging::log_to_file("test.log", LevelFilter::Info)?;
     } else {
         SimpleLogger::new()
-            .without_timestamps()
             .with_colors(true)
             .with_level(LevelFilter::Info)
             .env()
