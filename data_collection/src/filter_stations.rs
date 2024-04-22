@@ -1,5 +1,8 @@
+use std::collections::HashSet;
+
 use log::info;
 use serde::{Deserialize, Serialize};
+use serde_json::Value;
 
 use crate::get_as_json;
 
@@ -44,9 +47,18 @@ pub fn filter_stations(minimum_weight: u64) -> eyre::Result<()> {
         }
     }).collect();
 
-    info!("Total number of stations: {}", valid_stations.len());
+    let mut unique_ids = HashSet::new();
+    let mut unique_stations = Vec::new();
+    for station in valid_stations {
+        if unique_ids.insert(station.id.clone()) {
+            unique_stations.push(station);
+        }
+    }
+    
+    
+    info!("Total number of stations: {}", unique_stations.len());
 
-    let filtered_stations: Vec<&Station> = valid_stations.iter().filter(|station| station.weight > minimum_weight as f64).collect();
+    let filtered_stations: Vec<&Station> = unique_stations.iter().filter(|station| station.weight > minimum_weight as f64).collect();
     // println!("{:?}", filtered_stations);
     info!("Stations with weight >={minimum_weight}: {}", filtered_stations.len());
     let stations_file = "stations.json";
