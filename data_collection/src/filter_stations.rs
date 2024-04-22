@@ -6,7 +6,7 @@ use crate::get_as_json;
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Station {
     name: String,
-    id: String,
+    pub id: String,
     weight: f64,
     lat: f64,
     long: f64,
