@@ -52,6 +52,7 @@ pub fn update_station(station: u64) -> eyre::Result<()> {
                 delay: -1,
                 product_type: product_type.clone(),
             });
+            continue
         }
 
         let delay = match entry.get("delay") {

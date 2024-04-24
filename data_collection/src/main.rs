@@ -1,4 +1,4 @@
-use clap::{Parser, Subcommand};
+use clap::{Parser, Subcommand, ValueEnum};
 use log::LevelFilter;
 use serde_json::Value;
 use simple_logger::SimpleLogger;
@@ -36,6 +36,29 @@ pub enum Commands {
         #[arg()]
         station: u64
     },
+    ///Analyse data according the chosen mode
+    Evaluate {
+        #[arg(default_value = "all")]
+        product_type: ProductType,
+    }
+}
+
+#[derive(ValueEnum, Clone)]
+pub enum ProductType {
+    NationalExpress,
+    National,
+    AllNational,
+    RegionalExpress,
+    Regional,
+    AllRegional,
+    Suburban,
+    All,
+}
+
+#[derive(Subcommand)]
+pub enum EvaluationMode {
+    ///Sort stations by percentage of trains which are delayed
+    DelayPercentage
 }
 
 pub fn get_as_json(url: &str) -> serde_json::Map<String, Value> {
@@ -70,6 +93,7 @@ fn main() -> eyre::Result<()> {
         Commands::UpdateStation { station } => {
             update_station(*station)?;
         }
+        Commands::Evaluate { .. } => {}
     }
 
     Ok(())

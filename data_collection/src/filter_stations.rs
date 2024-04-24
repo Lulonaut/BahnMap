@@ -2,17 +2,16 @@ use std::collections::HashSet;
 
 use log::info;
 use serde::{Deserialize, Serialize};
-use serde_json::Value;
 
 use crate::get_as_json;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Station {
-    name: String,
+    pub name: String,
     pub id: String,
-    weight: f64,
-    lat: f64,
-    long: f64,
+    pub weight: f64,
+    pub lat: f64,
+    pub long: f64,
 }
 
 pub fn filter_stations(minimum_weight: u64) -> eyre::Result<()> {
