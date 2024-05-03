@@ -5,7 +5,7 @@ use serde::{Deserialize, Serialize};
 
 use crate::get_as_json;
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, PartialEq)]
 pub struct Station {
     pub name: String,
     pub id: String,

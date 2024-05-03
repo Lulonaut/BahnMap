@@ -13,14 +13,14 @@ use crate::filter_stations::Station;
 use crate::get_as_json;
 
 #[derive(Serialize, Deserialize, Debug)]
-struct StationData {
-    trips: HashMap<String, Trip>,
+pub struct StationData {
+    pub trips: HashMap<String, Trip>,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
-struct Trip {
-    delay: i32,
-    product_type: String,
+#[derive(Serialize, Deserialize, Debug, Clone)]
+pub struct Trip {
+    pub delay: i32,
+    pub product_type: String,
 }
 
 pub fn update_station(station: u64) -> eyre::Result<()> {

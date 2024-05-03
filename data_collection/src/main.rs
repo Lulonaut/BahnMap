@@ -3,11 +3,13 @@ use log::LevelFilter;
 use serde_json::Value;
 use simple_logger::SimpleLogger;
 
+use crate::evaluate::evaluate;
 use crate::filter_stations::filter_stations;
 use crate::server::{run_server, update_station};
 
 mod filter_stations;
 mod server;
+mod evaluate;
 
 #[derive(Parser)]
 #[command(version, about)]
@@ -40,10 +42,12 @@ pub enum Commands {
     Evaluate {
         #[arg(default_value = "all")]
         product_type: ProductType,
+        #[command(subcommand)]
+        eval_type: EvaluationMode
     }
 }
 
-#[derive(ValueEnum, Clone)]
+#[derive(ValueEnum, Clone, Copy, PartialOrd, PartialEq)]
 pub enum ProductType {
     NationalExpress,
     National,
@@ -55,7 +59,7 @@ pub enum ProductType {
     All,
 }
 
-#[derive(Subcommand)]
+#[derive(Subcommand, Clone, Copy)]
 pub enum EvaluationMode {
     ///Sort stations by percentage of trains which are delayed
     DelayPercentage
@@ -70,11 +74,10 @@ pub fn get_as_json(url: &str) -> serde_json::Map<String, Value> {
 }
 
 fn main() -> eyre::Result<()> {
-
     let cli = Cli::parse();
 
     if cli.log_to_file {
-        simple_logging::log_to_file("test.log", LevelFilter::Info)?;
+        simple_logging::log_to_file("bahnmap.log", LevelFilter::Info)?;
     } else {
         SimpleLogger::new()
             .with_colors(true)
@@ -93,7 +96,9 @@ fn main() -> eyre::Result<()> {
         Commands::UpdateStation { station } => {
             update_station(*station)?;
         }
-        Commands::Evaluate { .. } => {}
+        Commands::Evaluate { product_type, eval_type } => {
+            evaluate(*product_type, *eval_type)?;
+        }
     }
 
     Ok(())
