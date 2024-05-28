@@ -62,7 +62,10 @@ pub enum ProductType {
 #[derive(Subcommand, Clone, Copy)]
 pub enum EvaluationMode {
     ///Sort stations by percentage of trains which are delayed
-    DelayPercentage
+    DelayPercentage,
+
+    ///Sort stations by the average delay the trains have
+    AverageDelayTime
 }
 
 pub fn get_as_json(url: &str) -> serde_json::Map<String, Value> {

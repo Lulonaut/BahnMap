@@ -1,850 +1,706 @@
 [
   {
-    "id": "8001082",
-    "name": "Bonn-Bad Godesberg",
-    "lat": 50.683927,
-    "long": 7.159555,
-    "result": 0.46612466124661245,
-    "weight": 519.8
-  },
-  {
-    "id": "8004542",
-    "name": "Oberhausen-Sterkrade",
-    "lat": 51.512086,
-    "long": 6.843543,
-    "result": 0.4658730158730159,
-    "weight": 493.7
-  },
-  {
-    "id": "8000044",
-    "name": "Bonn Hbf",
-    "lat": 50.732008,
-    "long": 7.097136,
-    "result": 0.45528455284552843,
-    "weight": 756.95
-  },
-  {
-    "id": "8003361",
-    "name": "Köln Süd",
-    "lat": 50.9273,
-    "long": 6.938059,
-    "result": 0.4160756501182033,
-    "weight": 631.1
-  },
-  {
-    "id": "8003341",
-    "name": "Koblenz Stadtmitte",
-    "lat": 50.357714,
-    "long": 7.589985,
-    "result": 0.4091644204851752,
-    "weight": 506.45
-  },
-  {
-    "id": "8000086",
-    "name": "Duisburg Hbf",
-    "lat": 51.429785,
-    "long": 6.775903,
-    "result": 0.36492197659297787,
-    "weight": 870.4
-  },
-  {
-    "id": "8000266",
-    "name": "Wuppertal Hbf",
-    "lat": 51.254363,
-    "long": 7.149543,
-    "result": 0.3637672218794982,
-    "weight": 813.05
-  },
-  {
-    "id": "8000118",
-    "name": "Gelsenkirchen Hbf",
-    "lat": 51.504903,
-    "long": 7.102455,
-    "result": 0.33524766690595836,
-    "weight": 539.65
-  },
-  {
-    "id": "8000149",
-    "name": "Hamm (Westf) Hbf",
-    "lat": 51.678078,
-    "long": 7.807821,
-    "result": 0.3346444780635401,
-    "weight": 530.45
-  },
-  {
-    "id": "8001584",
-    "name": "Düsseldorf-Benrath",
-    "lat": 51.162293,
-    "long": 6.878931,
-    "result": 0.32717678100263853,
-    "weight": 504.2
-  },
-  {
-    "id": "8006719",
-    "name": "Wuppertal-Oberbarmen",
-    "lat": 51.273839,
-    "long": 7.221483,
-    "result": 0.323026118282798,
-    "weight": 489.6
-  },
-  {
-    "id": "8000206",
-    "name": "Koblenz Hbf",
-    "lat": 50.350929,
-    "long": 7.588345,
-    "result": 0.3157085766984322,
-    "weight": 527.95
-  },
-  {
-    "id": "8000010",
-    "name": "Aschaffenburg Hbf",
-    "lat": 49.980557,
-    "long": 9.143697,
-    "result": 0.3129855715871254,
-    "weight": 540.25
-  },
-  {
-    "id": "8070004",
-    "name": "Frankfurt (Main) Flughafen Regionalbahnhof",
-    "lat": 50.051219,
-    "long": 8.571251,
-    "result": 0.3127649552520019,
-    "weight": 539.05
-  },
-  {
-    "id": "8070003",
-    "name": "Frankfurt am Main Flughafen Fernbahnhof",
-    "lat": 50.053167,
-    "long": 8.570185,
-    "result": 0.3122203908641394,
-    "weight": 539.05
-  },
-  {
-    "id": "8000142",
-    "name": "Hagen Hbf",
-    "lat": 51.362747,
-    "long": 7.460249,
-    "result": 0.31038374717832956,
-    "weight": 663.0
-  },
-  {
-    "id": "8000085",
-    "name": "Düsseldorf Hbf",
-    "lat": 51.219962,
-    "long": 6.794319,
-    "result": 0.30321033979570566,
-    "weight": 1059.9
-  },
-  {
-    "id": "8000309",
-    "name": "Regensburg Hbf",
-    "lat": 49.011672,
-    "long": 12.099617,
-    "result": 0.2979970688812897,
-    "weight": 721.0
-  },
-  {
-    "id": "8000207",
-    "name": "Köln Hbf",
-    "lat": 50.94303,
-    "long": 6.958729,
-    "result": 0.2977357508458402,
-    "weight": 1043.3
-  },
-  {
-    "id": "8000209",
-    "name": "Köln-Mülheim",
-    "lat": 50.957986,
-    "long": 7.013295,
-    "result": 0.29607010090281466,
-    "weight": 764.6
-  },
-  {
-    "id": "8000314",
-    "name": "Reutlingen Hbf",
-    "lat": 48.496079,
-    "long": 9.209116,
-    "result": 0.2947089947089947,
-    "weight": 609.9
-  },
-  {
-    "id": "8000286",
-    "name": "Oberhausen Hbf",
-    "lat": 51.474878,
-    "long": 6.851588,
-    "result": 0.2900928792569659,
-    "weight": 739.3
-  },
-  {
-    "id": "8000041",
-    "name": "Bochum Hbf",
-    "lat": 51.478609,
-    "long": 7.223275,
-    "result": 0.27540043031317235,
-    "weight": 859.05
-  },
-  {
-    "id": "8003759",
-    "name": "Ludwigshafen (Rhein) Mitte",
-    "lat": 49.479005,
-    "long": 8.452152,
-    "result": 0.27460375967563583,
-    "weight": 606.4
-  },
-  {
-    "id": "8000244",
-    "name": "Mannheim Hbf",
-    "lat": 49.479354,
-    "long": 8.468921,
-    "result": 0.26648015387305474,
-    "weight": 775.5
-  },
-  {
-    "id": "8003200",
-    "name": "Kassel-Wilhelmshöhe",
-    "lat": 51.313114,
-    "long": 9.446898,
-    "result": 0.2649194821597727,
-    "weight": 555.65
-  },
-  {
-    "id": "8003368",
-    "name": "Köln Messe/Deutz",
-    "lat": 50.940874,
-    "long": 6.975001,
-    "result": 0.2641432225063939,
-    "weight": 910.7
-  },
-  {
-    "id": "8004135",
-    "name": "München Marienplatz",
-    "lat": 48.137048,
-    "long": 11.575386,
-    "result": 0.26275239107332626,
-    "weight": 991.85
-  },
-  {
-    "id": "8000036",
-    "name": "Bielefeld Hbf",
-    "lat": 52.029261,
-    "long": 8.532722,
-    "result": 0.2605105105105105,
-    "weight": 543.5
-  },
-  {
-    "id": "8004129",
-    "name": "München-Hackerbrücke",
-    "lat": 48.141969,
-    "long": 11.548572,
-    "result": 0.2566110397946085,
-    "weight": 629.55
-  },
-  {
-    "id": "8000098",
-    "name": "Essen Hbf",
-    "lat": 51.451355,
-    "long": 7.014793,
-    "result": 0.2560299417798725,
-    "weight": 997.65
-  },
-  {
-    "id": "8000080",
-    "name": "Dortmund Hbf",
-    "lat": 51.517896,
-    "long": 7.45929,
-    "result": 0.2553156419976924,
-    "weight": 873.7
-  },
-  {
-    "id": "8004132",
-    "name": "München Karlsplatz",
-    "lat": 48.139452,
-    "long": 11.565619,
-    "result": 0.25531067445565586,
-    "weight": 961.95
-  },
-  {
-    "id": "8000263",
-    "name": "Münster (Westf) Hbf",
-    "lat": 51.956566,
-    "long": 7.635715,
-    "result": 0.254390779363337,
-    "weight": 702.75
-  },
-  {
-    "id": "8000259",
-    "name": "Mülheim (Ruhr) Hbf",
-    "lat": 51.431342,
-    "long": 6.88651,
-    "result": 0.2532307692307692,
-    "weight": 635.05
-  },
-  {
-    "id": "8005769",
-    "name": "Stuttgart-Bad Cannstatt",
-    "lat": 48.801377,
-    "long": 9.217531,
-    "result": 0.25224400073273495,
-    "weight": 570.1
-  },
-  {
-    "id": "8000240",
-    "name": "Mainz Hbf",
-    "lat": 50.001117,
-    "long": 8.25872,
-    "result": 0.2496954933008526,
-    "weight": 740.75
-  },
-  {
-    "id": "8004136",
-    "name": "München Rosenheimer Platz",
-    "lat": 48.129168,
-    "long": 11.593049,
-    "result": 0.2410042964554243,
-    "weight": 604.2
+    "id": "8000261",
+    "name": "München Hbf",
+    "lat": 48.140232,
+    "long": 11.558335,
+    "result": 1762.128935532234,
+    "weight": 1034.6
   },
   {
     "id": "8000260",
     "name": "Würzburg Hbf",
     "lat": 49.801796,
     "long": 9.93578,
-    "result": 0.23905109489051096,
+    "result": 1722.7786259541986,
     "weight": 611.3
-  },
-  {
-    "id": "8004131",
-    "name": "München Isartor",
-    "lat": 48.134202,
-    "long": 11.583234,
-    "result": 0.2364242828552368,
-    "weight": 573.55
-  },
-  {
-    "id": "8001920",
-    "name": "Esslingen (Neckar)",
-    "lat": 48.73881,
-    "long": 9.30008,
-    "result": 0.23609787098824278,
-    "weight": 454.45
-  },
-  {
-    "id": "8012940",
-    "name": "Schwerin Mitte",
-    "lat": 53.626911,
-    "long": 11.405334,
-    "result": 0.23511450381679388,
-    "weight": 505.45
-  },
-  {
-    "id": "8000274",
-    "name": "Neuss Hbf",
-    "lat": 51.204351,
-    "long": 6.684527,
-    "result": 0.2265748031496063,
-    "weight": 719.75
-  },
-  {
-    "id": "8001585",
-    "name": "Düsseldorf-Bilk",
-    "lat": 51.207994,
-    "long": 6.775578,
-    "result": 0.22424502034696936,
-    "weight": 761.4
   },
   {
     "id": "8006552",
     "name": "Wolfsburg Hbf",
     "lat": 52.429498,
     "long": 10.787784,
-    "result": 0.2237665045170257,
+    "result": 1450.248447204969,
     "weight": 508.2
-  },
-  {
-    "id": "8000156",
-    "name": "Heidelberg Hbf",
-    "lat": 49.403567,
-    "long": 8.675442,
-    "result": 0.22298456260720412,
-    "weight": 770.45
-  },
-  {
-    "id": "8000211",
-    "name": "Krefeld Hbf",
-    "lat": 51.325717,
-    "long": 6.569885,
-    "result": 0.2219873150105708,
-    "weight": 607.85
-  },
-  {
-    "id": "8000068",
-    "name": "Darmstadt Hbf",
-    "lat": 49.872503,
-    "long": 8.629636,
-    "result": 0.21749502982107355,
-    "weight": 584.5
-  },
-  {
-    "id": "8000096",
-    "name": "Stuttgart Hbf",
-    "lat": 48.784084,
-    "long": 9.181635,
-    "result": 0.21432559623514397,
-    "weight": 1009.1
-  },
-  {
-    "id": "8005767",
-    "name": "Stuttgart Nord",
-    "lat": 48.803769,
-    "long": 9.188026,
-    "result": 0.21421520236920039,
-    "weight": 501.3
-  },
-  {
-    "id": "8000294",
-    "name": "Osnabrück Hbf",
-    "lat": 52.272851,
-    "long": 8.061781,
-    "result": 0.2139917695473251,
-    "weight": 513.25
-  },
-  {
-    "id": "8004151",
-    "name": "München-Laim Pbf",
-    "lat": 48.144371,
-    "long": 11.503669,
-    "result": 0.20791168353265868,
-    "weight": 627.05
-  },
-  {
-    "id": "8004179",
-    "name": "München-Hirschgarten",
-    "lat": 48.14354,
-    "long": 11.519245,
-    "result": 0.20415133998949028,
-    "weight": 492.25
-  },
-  {
-    "id": "8006699",
-    "name": "Stuttgart Feuersee",
-    "lat": 48.772768,
-    "long": 9.166273,
-    "result": 0.20375969501774682,
-    "weight": 603.9
-  },
-  {
-    "id": "8003766",
-    "name": "Ludwigshafen-Oggersheim",
-    "lat": 49.493188,
-    "long": 8.381523,
-    "result": 0.20324189526184538,
-    "weight": 572.05
-  },
-  {
-    "id": "8000261",
-    "name": "München Hbf",
-    "lat": 48.140232,
-    "long": 11.558335,
-    "result": 0.1994766355140187,
-    "weight": 1034.6
-  },
-  {
-    "id": "8000141",
-    "name": "Tübingen Hbf",
-    "lat": 48.515811,
-    "long": 9.055407,
-    "result": 0.19934944237918215,
-    "weight": 558.2
-  },
-  {
-    "id": "8006700",
-    "name": "Stuttgart Stadtmitte",
-    "lat": 48.776229,
-    "long": 9.172925,
-    "result": 0.198870353342966,
-    "weight": 836.15
-  },
-  {
-    "id": "8000013",
-    "name": "Augsburg Hbf",
-    "lat": 48.365441,
-    "long": 10.88557,
-    "result": 0.19853709508881923,
-    "weight": 859.05
-  },
-  {
-    "id": "8000152",
-    "name": "Hannover Hbf",
-    "lat": 52.376761,
-    "long": 9.741021,
-    "result": 0.19418358073311118,
-    "weight": 861.0
-  },
-  {
-    "id": "8000050",
-    "name": "Bremen Hbf",
-    "lat": 53.083481,
-    "long": 8.813834,
-    "result": 0.19379042690815007,
-    "weight": 834.1
-  },
-  {
-    "id": "8004128",
-    "name": "München Donnersbergerbrücke",
-    "lat": 48.142623,
-    "long": 11.536537,
-    "result": 0.193149915777653,
-    "weight": 848.6
-  },
-  {
-    "id": "8000262",
-    "name": "München Ost",
-    "lat": 48.12744,
-    "long": 11.604971,
-    "result": 0.1832734400522705,
-    "weight": 900.3
-  },
-  {
-    "id": "8002041",
-    "name": "Frankfurt (Main) Süd",
-    "lat": 50.099365,
-    "long": 8.686457,
-    "result": 0.18325009604302728,
-    "weight": 857.25
-  },
-  {
-    "id": "8000208",
-    "name": "Köln-Ehrenfeld",
-    "lat": 50.951533,
-    "long": 6.917276,
-    "result": 0.1819556451612903,
-    "weight": 590.5
-  },
-  {
-    "id": "8004158",
-    "name": "München-Pasing",
-    "lat": 48.149852,
-    "long": 11.461872,
-    "result": 0.1769594828581323,
-    "weight": 917.15
-  },
-  {
-    "id": "8000235",
-    "name": "Ludwigsburg",
-    "lat": 48.891862,
-    "long": 9.18542,
-    "result": 0.17367674858223062,
-    "weight": 719.9
-  },
-  {
-    "id": "8000147",
-    "name": "Hamburg-Harburg",
-    "lat": 53.455908,
-    "long": 9.991701,
-    "result": 0.17234820775420628,
-    "weight": 792.3
-  },
-  {
-    "id": "8006711",
-    "name": "Bochum West",
-    "lat": 51.481459,
-    "long": 7.211223,
-    "result": 0.16666666666666666,
-    "weight": 561.55
-  },
-  {
-    "id": "8001582",
-    "name": "Düsseldorf Wehrhahn",
-    "lat": 51.228447,
-    "long": 6.798173,
-    "result": 0.16514657980456027,
-    "weight": 592.4
-  },
-  {
-    "id": "8000105",
-    "name": "Frankfurt (Main) Hbf",
-    "lat": 50.107145,
-    "long": 8.663789,
-    "result": 0.16293307360512035,
-    "weight": 1064.5
-  },
-  {
-    "id": "8004148",
-    "name": "München-Giesing",
-    "lat": 48.110803,
-    "long": 11.596346,
-    "result": 0.15629198387819077,
-    "weight": 534.85
-  },
-  {
-    "id": "8000107",
-    "name": "Freiburg (Breisgau) Hbf",
-    "lat": 47.997697,
-    "long": 7.84117,
-    "result": 0.15610859728506787,
-    "weight": 648.5
-  },
-  {
-    "id": "8000291",
-    "name": "Oldenburg (Oldb) Hbf",
-    "lat": 53.144323,
-    "long": 8.222713,
-    "result": 0.1510204081632653,
-    "weight": 679.85
-  },
-  {
-    "id": "8000253",
-    "name": "Mönchengladbach Hbf",
-    "lat": 51.196583,
-    "long": 6.446111,
-    "result": 0.1483790523690773,
-    "weight": 563.25
-  },
-  {
-    "id": "8001844",
-    "name": "Erlangen",
-    "lat": 49.5958303,
-    "long": 11.0016382,
-    "result": 0.14676390154968094,
-    "weight": 604.2
-  },
-  {
-    "id": "8010101",
-    "name": "Erfurt Hbf",
-    "lat": 50.972551,
-    "long": 11.038499,
-    "result": 0.14463544754001187,
-    "weight": 650.45
   },
   {
     "id": "8000284",
     "name": "Nürnberg Hbf",
     "lat": 49.445616,
     "long": 11.082989,
-    "result": 0.14068734714892522,
+    "result": 1430.7776761207685,
     "weight": 1121.2
   },
   {
-    "id": "8000114",
-    "name": "Fürth (Bay) Hbf",
-    "lat": 49.469707,
-    "long": 10.989988,
-    "result": 0.13962725328444853,
-    "weight": 597.0
+    "id": "8000294",
+    "name": "Osnabrück Hbf",
+    "lat": 52.272851,
+    "long": 8.061781,
+    "result": 1407.0,
+    "weight": 513.25
+  },
+  {
+    "id": "8000107",
+    "name": "Freiburg (Breisgau) Hbf",
+    "lat": 47.997697,
+    "long": 7.84117,
+    "result": 1401.7391304347825,
+    "weight": 648.5
+  },
+  {
+    "id": "8000010",
+    "name": "Aschaffenburg Hbf",
+    "lat": 49.980557,
+    "long": 9.143697,
+    "result": 1394.6808510638298,
+    "weight": 540.25
+  },
+  {
+    "id": "8010101",
+    "name": "Erfurt Hbf",
+    "lat": 50.972551,
+    "long": 11.038499,
+    "result": 1374.5901639344263,
+    "weight": 650.45
+  },
+  {
+    "id": "8000044",
+    "name": "Bonn Hbf",
+    "lat": 50.732008,
+    "long": 7.097136,
+    "result": 1359.857142857143,
+    "weight": 756.95
+  },
+  {
+    "id": "8000041",
+    "name": "Bochum Hbf",
+    "lat": 51.478609,
+    "long": 7.223275,
+    "result": 1359.0104166666667,
+    "weight": 859.05
+  },
+  {
+    "id": "8000244",
+    "name": "Mannheim Hbf",
+    "lat": 49.479354,
+    "long": 8.468921,
+    "result": 1356.8110236220473,
+    "weight": 775.5
   },
   {
     "id": "8000170",
     "name": "Ulm Hbf",
     "lat": 48.399437,
     "long": 9.982227,
-    "result": 0.13811058765187206,
+    "result": 1320.754039497307,
     "weight": 692.8
   },
   {
-    "id": "8002045",
-    "name": "Frankfurt-Eschersheim",
-    "lat": 50.158583,
-    "long": 8.655431,
-    "result": 0.13738551207327226,
-    "weight": 559.0
+    "id": "8000050",
+    "name": "Bremen Hbf",
+    "lat": 53.083481,
+    "long": 8.813834,
+    "result": 1313.5914552736983,
+    "weight": 834.1
   },
   {
-    "id": "8005778",
-    "name": "Stuttgart-Zuffenhausen",
-    "lat": 48.829415,
-    "long": 9.166739,
-    "result": 0.1364949446316803,
-    "weight": 584.4
+    "id": "8000263",
+    "name": "Münster (Westf) Hbf",
+    "lat": 51.956566,
+    "long": 7.635715,
+    "result": 1312.4919093851133,
+    "weight": 702.75
   },
   {
-    "id": "8004134",
-    "name": "München Leuchtenbergring",
-    "lat": 48.13425,
-    "long": 11.615986,
-    "result": 0.13394342762063227,
-    "weight": 475.45
+    "id": "8000086",
+    "name": "Duisburg Hbf",
+    "lat": 51.429785,
+    "long": 6.775903,
+    "result": 1305.1135857461024,
+    "weight": 870.4
   },
   {
-    "id": "8004130",
-    "name": "München Harras",
-    "lat": 48.117747,
-    "long": 11.536311,
-    "result": 0.13331170937398637,
-    "weight": 803.95
+    "id": "8070003",
+    "name": "Frankfurt am Main Flughafen Fernbahnhof",
+    "lat": 50.053167,
+    "long": 8.570185,
+    "result": 1282.4886877828055,
+    "weight": 539.05
   },
   {
-    "id": "8010404",
-    "name": "Berlin-Spandau",
-    "lat": 52.5346481,
-    "long": 13.1968975,
-    "result": 0.11963644049883745,
-    "weight": 821.6
+    "id": "8000309",
+    "name": "Regensburg Hbf",
+    "lat": 49.011672,
+    "long": 12.099617,
+    "result": 1280.0655737704917,
+    "weight": 721.0
   },
   {
-    "id": "8002549",
-    "name": "Hamburg Hbf",
-    "lat": 53.552736,
-    "long": 10.006909,
-    "result": 0.11722683358280038,
-    "weight": 889.6
+    "id": "8070004",
+    "name": "Frankfurt (Main) Flughafen Regionalbahnhof",
+    "lat": 50.051219,
+    "long": 8.571251,
+    "result": 1278.6144578313254,
+    "weight": 539.05
   },
   {
-    "id": "8006692",
-    "name": "Frankfurt (Main) Hauptwache",
-    "lat": 50.113926,
-    "long": 8.678947,
-    "result": 0.11622697859631657,
-    "weight": 1023.8
+    "id": "8000013",
+    "name": "Augsburg Hbf",
+    "lat": 48.365441,
+    "long": 10.88557,
+    "result": 1272.9473684210527,
+    "weight": 859.05
   },
   {
-    "id": "8004429",
-    "name": "Frankfurt (Main) Konstablerwache",
-    "lat": 50.114623,
-    "long": 8.687098,
-    "result": 0.11434977578475336,
-    "weight": 1047.5
+    "id": "8000080",
+    "name": "Dortmund Hbf",
+    "lat": 51.517896,
+    "long": 7.45929,
+    "result": 1270.0710135571337,
+    "weight": 873.7
   },
   {
-    "id": "8011160",
-    "name": "Berlin Hauptbahnhof",
-    "lat": 52.525592,
-    "long": 13.369545,
-    "result": 0.11263452749520861,
-    "weight": 1053.0
+    "id": "8000206",
+    "name": "Koblenz Hbf",
+    "lat": 50.350929,
+    "long": 7.588345,
+    "result": 1269.3476144109056,
+    "weight": 527.95
   },
   {
-    "id": "8002058",
-    "name": "Frankfurt (Main) Ostendstraße",
-    "lat": 50.112562,
-    "long": 8.696987,
-    "result": 0.112565445026178,
-    "weight": 492.7
+    "id": "8000152",
+    "name": "Hannover Hbf",
+    "lat": 52.376761,
+    "long": 9.741021,
+    "result": 1268.003120124805,
+    "weight": 861.0
   },
   {
-    "id": "8004473",
-    "name": "Nürnberg Rothenburger Straße",
-    "lat": 49.4454,
-    "long": 11.055338,
-    "result": 0.11211211211211211,
-    "weight": 462.6
+    "id": "8000036",
+    "name": "Bielefeld Hbf",
+    "lat": 52.029261,
+    "long": 8.532722,
+    "result": 1252.0461095100864,
+    "weight": 543.5
   },
   {
-    "id": "8005419",
-    "name": "München Heimeranplatz",
-    "lat": 48.132961,
-    "long": 11.5315,
-    "result": 0.11022727272727273,
-    "weight": 501.8
-  },
-  {
-    "id": "8000106",
-    "name": "Frankfurt-Höchst",
-    "lat": 50.102634,
-    "long": 8.54237,
-    "result": 0.1064178798441665,
-    "weight": 662.25
-  },
-  {
-    "id": "8070090",
-    "name": "Offenbach Marktplatz",
-    "lat": 50.105855,
-    "long": 8.763633,
-    "result": 0.1062420382165605,
-    "weight": 508.85
-  },
-  {
-    "id": "8002038",
-    "name": "Frankfurt (Main) Lokalbahnhof",
-    "lat": 50.102171,
-    "long": 8.693025,
-    "result": 0.10481927710843374,
-    "weight": 653.05
-  },
-  {
-    "id": "8003184",
-    "name": "Karlsruhe-Durlach",
-    "lat": 49.002328,
-    "long": 8.462822,
-    "result": 0.10178890876565296,
-    "weight": 565.35
-  },
-  {
-    "id": "8000191",
-    "name": "Karlsruhe Hbf",
-    "lat": 48.993515,
-    "long": 8.402181,
-    "result": 0.10084801043705154,
-    "weight": 717.7
-  },
-  {
-    "id": "8000049",
-    "name": "Braunschweig Hbf",
-    "lat": 52.252218,
-    "long": 10.540295,
-    "result": 0.10081358330385568,
-    "weight": 488.3
-  },
-  {
-    "id": "8006690",
-    "name": "Frankfurt (Main) Galluswarte",
-    "lat": 50.10403,
-    "long": 8.64472,
-    "result": 0.10022107590272661,
-    "weight": 455.15
-  },
-  {
-    "id": "8002548",
-    "name": "Hamburg Dammtor",
-    "lat": 53.560751,
-    "long": 9.989566,
-    "result": 0.09408469270060965,
-    "weight": 854.55
-  },
-  {
-    "id": "8010255",
-    "name": "Berlin Ostbahnhof",
-    "lat": 52.5104881,
-    "long": 13.4346807,
-    "result": 0.0934470725087243,
-    "weight": 821.85
-  },
-  {
-    "id": "8004267",
-    "name": "Harburg Rathaus",
-    "lat": 53.460694,
-    "long": 9.980463,
-    "result": 0.0885139819736538,
-    "weight": 682.05
-  },
-  {
-    "id": "8010224",
-    "name": "Magdeburg Hbf",
-    "lat": 52.130349,
-    "long": 11.626891,
-    "result": 0.0879196953963309,
-    "weight": 858.05
+    "id": "8000098",
+    "name": "Essen Hbf",
+    "lat": 51.451355,
+    "long": 7.014793,
+    "result": 1241.9382782891175,
+    "weight": 997.65
   },
   {
     "id": "8010159",
     "name": "Halle (Saale) Hbf",
     "lat": 51.477509,
     "long": 11.987085,
-    "result": 0.08727358268642672,
+    "result": 1234.7708894878706,
     "weight": 797.35
+  },
+  {
+    "id": "8000085",
+    "name": "Düsseldorf Hbf",
+    "lat": 51.219962,
+    "long": 6.794319,
+    "result": 1210.3746992093502,
+    "weight": 1059.9
+  },
+  {
+    "id": "8000191",
+    "name": "Karlsruhe Hbf",
+    "lat": 48.993515,
+    "long": 8.402181,
+    "result": 1201.940491591203,
+    "weight": 717.7
+  },
+  {
+    "id": "8010224",
+    "name": "Magdeburg Hbf",
+    "lat": 52.130349,
+    "long": 11.626891,
+    "result": 1170.708661417323,
+    "weight": 858.05
+  },
+  {
+    "id": "8010205",
+    "name": "Leipzig Hbf",
+    "lat": 51.3454712,
+    "long": 12.3820639,
+    "result": 1158.8936170212767,
+    "weight": 893.95
+  },
+  {
+    "id": "8000149",
+    "name": "Hamm (Westf) Hbf",
+    "lat": 51.678078,
+    "long": 7.807821,
+    "result": 1143.6889692585896,
+    "weight": 530.45
+  },
+  {
+    "id": "8000266",
+    "name": "Wuppertal Hbf",
+    "lat": 51.254363,
+    "long": 7.149543,
+    "result": 1140.9496890898813,
+    "weight": 813.05
+  },
+  {
+    "id": "8000291",
+    "name": "Oldenburg (Oldb) Hbf",
+    "lat": 53.144323,
+    "long": 8.222713,
+    "result": 1136.4864864864865,
+    "weight": 679.85
+  },
+  {
+    "id": "8001584",
+    "name": "Düsseldorf-Benrath",
+    "lat": 51.162293,
+    "long": 6.878931,
+    "result": 1115.8064516129032,
+    "weight": 504.2
+  },
+  {
+    "id": "8000207",
+    "name": "Köln Hbf",
+    "lat": 50.94303,
+    "long": 6.958729,
+    "result": 1113.3741258741259,
+    "weight": 1043.3
+  },
+  {
+    "id": "8000142",
+    "name": "Hagen Hbf",
+    "lat": 51.362747,
+    "long": 7.460249,
+    "result": 1105.6909090909091,
+    "weight": 663.0
+  },
+  {
+    "id": "8000259",
+    "name": "Mülheim (Ruhr) Hbf",
+    "lat": 51.431342,
+    "long": 6.88651,
+    "result": 1104.6415552855408,
+    "weight": 635.05
+  },
+  {
+    "id": "8000147",
+    "name": "Hamburg-Harburg",
+    "lat": 53.455908,
+    "long": 9.991701,
+    "result": 1097.2156196943972,
+    "weight": 792.3
+  },
+  {
+    "id": "8001082",
+    "name": "Bonn-Bad Godesberg",
+    "lat": 50.683927,
+    "long": 7.159555,
+    "result": 1088.9825581395348,
+    "weight": 519.8
+  },
+  {
+    "id": "8003341",
+    "name": "Koblenz Stadtmitte",
+    "lat": 50.357714,
+    "long": 7.589985,
+    "result": 1081.7391304347825,
+    "weight": 506.45
+  },
+  {
+    "id": "8000274",
+    "name": "Neuss Hbf",
+    "lat": 51.204351,
+    "long": 6.684527,
+    "result": 1066.081668114683,
+    "weight": 719.75
+  },
+  {
+    "id": "8000253",
+    "name": "Mönchengladbach Hbf",
+    "lat": 51.196583,
+    "long": 6.446111,
+    "result": 1056.8067226890757,
+    "weight": 563.25
+  },
+  {
+    "id": "8003361",
+    "name": "Köln Süd",
+    "lat": 50.9273,
+    "long": 6.938059,
+    "result": 1051.4318181818182,
+    "weight": 631.1
+  },
+  {
+    "id": "8003200",
+    "name": "Kassel-Wilhelmshöhe",
+    "lat": 51.313114,
+    "long": 9.446898,
+    "result": 1050.3933253873658,
+    "weight": 555.65
+  },
+  {
+    "id": "8010184",
+    "name": "Chemnitz Hbf",
+    "lat": 50.839696,
+    "long": 12.930877,
+    "result": 1043.780487804878,
+    "weight": 732.05
+  },
+  {
+    "id": "8004241",
+    "name": "Nettelnburg",
+    "lat": 53.487888,
+    "long": 10.181408,
+    "result": 1038.2608695652175,
+    "weight": 491.0
+  },
+  {
+    "id": "8000049",
+    "name": "Braunschweig Hbf",
+    "lat": 52.252218,
+    "long": 10.540295,
+    "result": 1037.6842105263158,
+    "weight": 488.3
+  },
+  {
+    "id": "8000209",
+    "name": "Köln-Mülheim",
+    "lat": 50.957986,
+    "long": 7.013295,
+    "result": 1031.7309417040358,
+    "weight": 764.6
+  },
+  {
+    "id": "8000240",
+    "name": "Mainz Hbf",
+    "lat": 50.001117,
+    "long": 8.25872,
+    "result": 1015.3756097560976,
+    "weight": 740.75
+  },
+  {
+    "id": "8000286",
+    "name": "Oberhausen Hbf",
+    "lat": 51.474878,
+    "long": 6.851588,
+    "result": 1010.3308431163288,
+    "weight": 739.3
+  },
+  {
+    "id": "8003368",
+    "name": "Köln Messe/Deutz",
+    "lat": 50.940874,
+    "long": 6.975001,
+    "result": 1003.0828814872192,
+    "weight": 910.7
+  },
+  {
+    "id": "8001585",
+    "name": "Düsseldorf-Bilk",
+    "lat": 51.207994,
+    "long": 6.775578,
+    "result": 1001.948424068768,
+    "weight": 761.4
+  },
+  {
+    "id": "8000118",
+    "name": "Gelsenkirchen Hbf",
+    "lat": 51.504903,
+    "long": 7.102455,
+    "result": 997.3875802997859,
+    "weight": 539.65
+  },
+  {
+    "id": "8004542",
+    "name": "Oberhausen-Sterkrade",
+    "lat": 51.512086,
+    "long": 6.843543,
+    "result": 993.015332197615,
+    "weight": 493.7
+  },
+  {
+    "id": "8000156",
+    "name": "Heidelberg Hbf",
+    "lat": 49.403567,
+    "long": 8.675442,
+    "result": 991.4615384615385,
+    "weight": 770.45
+  },
+  {
+    "id": "8000208",
+    "name": "Köln-Ehrenfeld",
+    "lat": 50.951533,
+    "long": 6.917276,
+    "result": 991.0803324099722,
+    "weight": 590.5
+  },
+  {
+    "id": "8002549",
+    "name": "Hamburg Hbf",
+    "lat": 53.552736,
+    "long": 10.006909,
+    "result": 983.8885664538595,
+    "weight": 889.6
+  },
+  {
+    "id": "8002041",
+    "name": "Frankfurt (Main) Süd",
+    "lat": 50.099365,
+    "long": 8.686457,
+    "result": 962.2641509433962,
+    "weight": 857.25
+  },
+  {
+    "id": "8006719",
+    "name": "Wuppertal-Oberbarmen",
+    "lat": 51.273839,
+    "long": 7.221483,
+    "result": 957.2118959107806,
+    "weight": 489.6
+  },
+  {
+    "id": "8012666",
+    "name": "Potsdam Hbf",
+    "lat": 52.391509,
+    "long": 13.0667031,
+    "result": 954.2168674698795,
+    "weight": 602.6
+  },
+  {
+    "id": "8010085",
+    "name": "Dresden Hbf",
+    "lat": 51.040563,
+    "long": 13.732035,
+    "result": 949.2946058091286,
+    "weight": 762.45
+  },
+  {
+    "id": "8000105",
+    "name": "Frankfurt (Main) Hbf",
+    "lat": 50.107145,
+    "long": 8.663789,
+    "result": 945.7557643040136,
+    "weight": 1064.5
+  },
+  {
+    "id": "8000199",
+    "name": "Kiel Hbf",
+    "lat": 54.314985,
+    "long": 10.131976,
+    "result": 937.2262773722628,
+    "weight": 700.25
+  },
+  {
+    "id": "8002554",
+    "name": "Hamburg-Bergedorf",
+    "lat": 53.489832,
+    "long": 10.206171,
+    "result": 928.3870967741935,
+    "weight": 527.45
+  },
+  {
+    "id": "8010089",
+    "name": "Dresden-Neustadt",
+    "lat": 51.065899,
+    "long": 13.740701,
+    "result": 926.3758389261745,
+    "weight": 721.45
+  },
+  {
+    "id": "8002548",
+    "name": "Hamburg Dammtor",
+    "lat": 53.560751,
+    "long": 9.989566,
+    "result": 921.5411558669002,
+    "weight": 854.55
+  },
+  {
+    "id": "8001520",
+    "name": "Dortmund-Stadthaus",
+    "lat": 51.507828,
+    "long": 7.468764,
+    "result": 915.0,
+    "weight": 488.6
+  },
+  {
+    "id": "8000211",
+    "name": "Krefeld Hbf",
+    "lat": 51.325717,
+    "long": 6.569885,
+    "result": 905.0,
+    "weight": 607.85
+  },
+  {
+    "id": "8010404",
+    "name": "Berlin-Spandau",
+    "lat": 52.5346481,
+    "long": 13.1968975,
+    "result": 897.8798586572439,
+    "weight": 821.6
+  },
+  {
+    "id": "8000250",
+    "name": "Wiesbaden Hbf",
+    "lat": 50.070791,
+    "long": 8.243731,
+    "result": 872.6153846153846,
+    "weight": 557.45
+  },
+  {
+    "id": "8000068",
+    "name": "Darmstadt Hbf",
+    "lat": 49.872503,
+    "long": 8.629636,
+    "result": 870.274223034735,
+    "weight": 584.5
+  },
+  {
+    "id": "8000314",
+    "name": "Reutlingen Hbf",
+    "lat": 48.496079,
+    "long": 9.209116,
+    "result": 870.0538599640934,
+    "weight": 609.9
+  },
+  {
+    "id": "8000299",
+    "name": "Pforzheim Hbf",
+    "lat": 48.894152,
+    "long": 8.703099,
+    "result": 860.4,
+    "weight": 708.0
+  },
+  {
+    "id": "8010304",
+    "name": "Rostock Hbf",
+    "lat": 54.078246,
+    "long": 12.131079,
+    "result": 857.8947368421053,
+    "weight": 553.05
   },
   {
     "id": "8002553",
     "name": "Hamburg-Altona",
     "lat": 53.552695,
     "long": 9.935175,
-    "result": 0.0824634655532359,
+    "result": 857.6371308016878,
     "weight": 874.6
+  },
+  {
+    "id": "8011160",
+    "name": "Berlin Hauptbahnhof",
+    "lat": 52.525592,
+    "long": 13.369545,
+    "result": 849.8952879581152,
+    "weight": 1053.0
+  },
+  {
+    "id": "8000096",
+    "name": "Stuttgart Hbf",
+    "lat": 48.784084,
+    "long": 9.181635,
+    "result": 846.9668775586156,
+    "weight": 1009.1
+  },
+  {
+    "id": "8003766",
+    "name": "Ludwigshafen-Oggersheim",
+    "lat": 49.493188,
+    "long": 8.381523,
+    "result": 839.2638036809816,
+    "weight": 572.05
+  },
+  {
+    "id": "8001844",
+    "name": "Erlangen",
+    "lat": 49.5958303,
+    "long": 11.0016382,
+    "result": 816.7080745341615,
+    "weight": 604.2
+  },
+  {
+    "id": "8001920",
+    "name": "Esslingen (Neckar)",
+    "lat": 48.73881,
+    "long": 9.30008,
+    "result": 814.8048452220727,
+    "weight": 454.45
+  },
+  {
+    "id": "8000237",
+    "name": "Lübeck Hbf",
+    "lat": 53.867547,
+    "long": 10.669821,
+    "result": 807.2,
+    "weight": 509.9
+  },
+  {
+    "id": "8011113",
+    "name": "Berlin Südkreuz",
+    "lat": 52.475047,
+    "long": 13.365319,
+    "result": 790.2608695652174,
+    "weight": 909.3
+  },
+  {
+    "id": "8000908",
+    "name": "Berliner Tor",
+    "lat": 53.55287,
+    "long": 10.02463,
+    "result": 785.6,
+    "weight": 958.35
+  },
+  {
+    "id": "8070146",
+    "name": "Sternschanze",
+    "lat": 53.563719,
+    "long": 9.967204,
+    "result": 782.5657894736842,
+    "weight": 553.75
+  },
+  {
+    "id": "8006705",
+    "name": "Reeperbahn",
+    "lat": 53.549668,
+    "long": 9.957668,
+    "result": 772.751677852349,
+    "weight": 473.25
+  },
+  {
+    "id": "8003184",
+    "name": "Karlsruhe-Durlach",
+    "lat": 49.002328,
+    "long": 8.462822,
+    "result": 771.1423550087874,
+    "weight": 565.35
+  },
+  {
+    "id": "8010403",
+    "name": "Berlin-Charlottenburg",
+    "lat": 52.5042126,
+    "long": 13.3023298,
+    "result": 768.8811188811189,
+    "weight": 924.5
+  },
+  {
+    "id": "8003759",
+    "name": "Ludwigshafen (Rhein) Mitte",
+    "lat": 49.479005,
+    "long": 8.452152,
+    "result": 768.6442953020135,
+    "weight": 606.4
   },
   {
     "id": "8010406",
     "name": "Berlin Zoologischer Garten",
     "lat": 52.507277,
     "long": 13.331992,
-    "result": 0.08223610801160455,
+    "result": 766.2415196743555,
     "weight": 876.05
   },
   {
@@ -852,599 +708,743 @@
     "name": "Alexanderplatz",
     "lat": 52.521481,
     "long": 13.410961,
-    "result": 0.08098052090172904,
+    "result": 764.5945945945946,
     "weight": 972.85
   },
   {
-    "id": "8011113",
-    "name": "Berlin Südkreuz",
-    "lat": 52.475047,
-    "long": 13.365319,
-    "result": 0.08073322932917316,
-    "weight": 909.3
+    "id": "8001582",
+    "name": "Düsseldorf Wehrhahn",
+    "lat": 51.228447,
+    "long": 6.798173,
+    "result": 763.905325443787,
+    "weight": 592.4
   },
   {
-    "id": "8089098",
-    "name": "Berlin-Zehlendorf",
-    "lat": 52.431067,
-    "long": 13.258659,
-    "result": 0.07757951900698215,
-    "weight": 685.7
-  },
-  {
-    "id": "8003518",
-    "name": "Landungsbrücken",
-    "lat": 53.546132,
-    "long": 9.971281,
-    "result": 0.07683597541248786,
-    "weight": 678.05
-  },
-  {
-    "id": "8000250",
-    "name": "Wiesbaden Hbf",
-    "lat": 50.070791,
-    "long": 8.243731,
-    "result": 0.07671125098347757,
-    "weight": 557.45
-  },
-  {
-    "id": "8010089",
-    "name": "Dresden-Neustadt",
-    "lat": 51.065899,
-    "long": 13.740701,
-    "result": 0.07662638210336847,
-    "weight": 721.45
-  },
-  {
-    "id": "8000237",
-    "name": "Lübeck Hbf",
-    "lat": 53.867547,
-    "long": 10.669821,
-    "result": 0.07579585649317837,
-    "weight": 509.9
-  },
-  {
-    "id": "8005663",
-    "name": "Stadthausbrücke",
-    "lat": 53.549465,
-    "long": 9.984804,
-    "result": 0.07434402332361516,
-    "weight": 693.45
-  },
-  {
-    "id": "8006705",
-    "name": "Reeperbahn",
-    "lat": 53.549668,
-    "long": 9.957668,
-    "result": 0.07268292682926829,
-    "weight": 473.25
-  },
-  {
-    "id": "8089019",
-    "name": "Jannowitzbrücke",
-    "lat": 52.51427,
-    "long": 13.419347,
-    "result": 0.07231606868630462,
-    "weight": 604.55
-  },
-  {
-    "id": "8003137",
-    "name": "Jungfernstieg",
-    "lat": 53.552194,
-    "long": 9.993883,
-    "result": 0.07182500816193274,
-    "weight": 851.9
-  },
-  {
-    "id": "8011118",
-    "name": "Berlin Potsdamer Platz",
-    "lat": 52.509379,
-    "long": 13.375988,
-    "result": 0.07147606382978723,
-    "weight": 863.15
-  },
-  {
-    "id": "8089017",
-    "name": "Hackescher Markt",
-    "lat": 52.522622,
-    "long": 13.402364,
-    "result": 0.07087935132112401,
-    "weight": 527.5
-  },
-  {
-    "id": "8089537",
-    "name": "Julius-Leber-Brücke",
-    "lat": 52.486519,
-    "long": 13.361266,
-    "result": 0.07080874696286012,
-    "weight": 498.7
-  },
-  {
-    "id": "8013444",
-    "name": "Dresden Mitte",
-    "lat": 51.056168,
-    "long": 13.724109,
-    "result": 0.07059565080365585,
-    "weight": 481.0
-  },
-  {
-    "id": "8010036",
-    "name": "Berlin-Lichtenberg",
-    "lat": 52.5101355,
-    "long": 13.4966934,
-    "result": 0.07043719639139487,
-    "weight": 820.45
-  },
-  {
-    "id": "8011306",
-    "name": "Berlin-Friedrichstraße",
-    "lat": 52.520373,
-    "long": 13.3872056,
-    "result": 0.07002480442663614,
-    "weight": 1097.1
-  },
-  {
-    "id": "8002554",
-    "name": "Hamburg-Bergedorf",
-    "lat": 53.489832,
-    "long": 10.206171,
-    "result": 0.06989853438556934,
-    "weight": 527.45
-  },
-  {
-    "id": "8011901",
-    "name": "Berlin-Hohenschönhausen",
-    "lat": 52.5660016,
-    "long": 13.5124218,
-    "result": 0.06918238993710692,
-    "weight": 469.0
-  },
-  {
-    "id": "8006198",
-    "name": "Wandsbeker Chaussee",
-    "lat": 53.569734,
-    "long": 10.059975,
-    "result": 0.06854732401792776,
-    "weight": 570.45
-  },
-  {
-    "id": "8010085",
-    "name": "Dresden Hbf",
-    "lat": 51.040563,
-    "long": 13.732035,
-    "result": 0.0681175805539853,
-    "weight": 762.45
-  },
-  {
-    "id": "8000908",
-    "name": "Berliner Tor",
-    "lat": 53.55287,
-    "long": 10.02463,
-    "result": 0.06757771437152725,
-    "weight": 958.35
-  },
-  {
-    "id": "8089037",
-    "name": "Savignyplatz",
-    "lat": 52.505093,
-    "long": 13.319271,
-    "result": 0.06749710312862109,
-    "weight": 559.95
-  },
-  {
-    "id": "8010403",
-    "name": "Berlin-Charlottenburg",
-    "lat": 52.5042126,
-    "long": 13.3023298,
-    "result": 0.0671046457062412,
-    "weight": 924.5
-  },
-  {
-    "id": "8010205",
-    "name": "Leipzig Hbf",
-    "lat": 51.3454712,
-    "long": 12.3820639,
-    "result": 0.06513303769401331,
-    "weight": 893.95
-  },
-  {
-    "id": "8089036",
-    "name": "Rathaus Steglitz",
-    "lat": 52.455833,
-    "long": 13.322948,
-    "result": 0.06497567755385684,
-    "weight": 728.9
-  },
-  {
-    "id": "8011167",
-    "name": "Jungfernheide",
-    "lat": 52.530276,
-    "long": 13.299437,
-    "result": 0.0649500384319754,
-    "weight": 784.9
-  },
-  {
-    "id": "8000805",
-    "name": "Barmbek",
-    "lat": 53.587458,
-    "long": 10.044164,
-    "result": 0.06486629600211809,
-    "weight": 852.9
-  },
-  {
-    "id": "8089012",
-    "name": "Feuerbachstraße",
-    "lat": 52.463546,
-    "long": 13.332575,
-    "result": 0.06447140381282496,
-    "weight": 683.75
-  },
-  {
-    "id": "8000199",
-    "name": "Kiel Hbf",
-    "lat": 54.314985,
-    "long": 10.131976,
-    "result": 0.0639887902849136,
-    "weight": 700.25
-  },
-  {
-    "id": "8070146",
-    "name": "Sternschanze",
-    "lat": 53.563719,
-    "long": 9.967204,
-    "result": 0.0627192077573757,
-    "weight": 553.75
-  },
-  {
-    "id": "8011162",
-    "name": "Ostkreuz",
-    "lat": 52.503037,
-    "long": 13.469105,
-    "result": 0.061535367754260724,
-    "weight": 1100.7
-  },
-  {
-    "id": "8089089",
-    "name": "Berlin-Tegel",
-    "lat": 52.587998,
-    "long": 13.289781,
-    "result": 0.059571088165210485,
-    "weight": 637.8
-  },
-  {
-    "id": "8089034",
-    "name": "Priesterweg",
-    "lat": 52.459914,
-    "long": 13.356281,
-    "result": 0.05825022665457842,
-    "weight": 559.2
-  },
-  {
-    "id": "8089050",
-    "name": "Yorckstraße",
-    "lat": 52.49117,
-    "long": 13.372128,
-    "result": 0.058118716430243765,
-    "weight": 657.15
-  },
-  {
-    "id": "8011102",
-    "name": "Berlin Gesundbrunnen",
-    "lat": 52.548963,
-    "long": 13.388513,
-    "result": 0.057798021046018534,
-    "weight": 954.9
-  },
-  {
-    "id": "8004661",
-    "name": "Ohlsdorf",
-    "lat": 53.620873,
-    "long": 10.031968,
-    "result": 0.05778003041054232,
-    "weight": 503.95
+    "id": "8010255",
+    "name": "Berlin Ostbahnhof",
+    "lat": 52.5104881,
+    "long": 13.4346807,
+    "result": 754.4190871369294,
+    "weight": 821.85
   },
   {
     "id": "8002550",
     "name": "Holstenstraße",
     "lat": 53.561762,
     "long": 9.949741,
-    "result": 0.05701934952655414,
+    "result": 747.0758122743682,
     "weight": 730.2
   },
   {
-    "id": "8012666",
-    "name": "Potsdam Hbf",
-    "lat": 52.391509,
-    "long": 13.0667031,
-    "result": 0.05669398907103825,
-    "weight": 602.6
+    "id": "8000235",
+    "name": "Ludwigsburg",
+    "lat": 48.891862,
+    "long": 9.18542,
+    "result": 739.265306122449,
+    "weight": 719.9
   },
   {
-    "id": "8089002",
-    "name": "Berlin Anhalter Bahnhof",
-    "lat": 52.503486,
-    "long": 13.381362,
-    "result": 0.05620447986807751,
-    "weight": 496.8
+    "id": "8013444",
+    "name": "Dresden Mitte",
+    "lat": 51.056168,
+    "long": 13.724109,
+    "result": 734.1964285714286,
+    "weight": 481.0
   },
   {
-    "id": "8010184",
-    "name": "Chemnitz Hbf",
-    "lat": 50.839696,
-    "long": 12.930877,
-    "result": 0.056164383561643834,
-    "weight": 732.05
+    "id": "8011162",
+    "name": "Ostkreuz",
+    "lat": 52.503037,
+    "long": 13.469105,
+    "result": 728.0882352941177,
+    "weight": 1100.7
   },
   {
-    "id": "8089044",
-    "name": "Berlin Brandenburger Tor",
-    "lat": 52.516506,
-    "long": 13.381815,
-    "result": 0.05606617647058824,
-    "weight": 605.8
-  },
-  {
-    "id": "8089024",
-    "name": "Berlin-Nordbahnhof",
-    "lat": 52.532066,
-    "long": 13.388464,
-    "result": 0.055420589128454295,
-    "weight": 676.6
-  },
-  {
-    "id": "8089045",
-    "name": "Warschauer Straße",
-    "lat": 52.505976,
-    "long": 13.451646,
-    "result": 0.054003531000103855,
-    "weight": 942.0
-  },
-  {
-    "id": "8000299",
-    "name": "Pforzheim Hbf",
-    "lat": 48.894152,
-    "long": 8.703099,
-    "result": 0.05373455131649651,
-    "weight": 708.0
-  },
-  {
-    "id": "8089026",
-    "name": "Nöldnerplatz",
-    "lat": 52.503497,
-    "long": 13.484452,
-    "result": 0.051260022909507444,
-    "weight": 462.5
-  },
-  {
-    "id": "8089059",
-    "name": "Friedrichsfelde Ost",
-    "lat": 52.514169,
-    "long": 13.520254,
-    "result": 0.050879215912366674,
-    "weight": 526.95
-  },
-  {
-    "id": "8012202",
-    "name": "Leipzig Wilhelm-Leuschner-Platz",
-    "lat": 51.335396,
-    "long": 12.375394,
-    "result": 0.050644158151932475,
-    "weight": 592.0
-  },
-  {
-    "id": "8089474",
-    "name": "Schöneberg",
-    "lat": 52.479377,
-    "long": 13.352068,
-    "result": 0.04753907763854799,
-    "weight": 767.8
-  },
-  {
-    "id": "8010304",
-    "name": "Rostock Hbf",
-    "lat": 54.078246,
-    "long": 12.131079,
-    "result": 0.046511627906976744,
-    "weight": 553.05
-  },
-  {
-    "id": "8089096",
-    "name": "Wittenau (Wilhelmsruher Damm)",
-    "lat": 52.597044,
-    "long": 13.334446,
-    "result": 0.0440771349862259,
-    "weight": 721.1
-  },
-  {
-    "id": "8010041",
-    "name": "Berlin-Schöneweide Pbf",
-    "lat": 52.455127,
-    "long": 13.509395,
-    "result": 0.04318893528183716,
-    "weight": 827.85
-  },
-  {
-    "id": "8089008",
-    "name": "Bornholmer Straße",
-    "lat": 52.554491,
-    "long": 13.397943,
-    "result": 0.04315631146592618,
-    "weight": 558.9
-  },
-  {
-    "id": "8089047",
-    "name": "Berlin-Westkreuz",
-    "lat": 52.500737,
-    "long": 13.283966,
-    "result": 0.04204358552631579,
-    "weight": 552.3
-  },
-  {
-    "id": "8004241",
-    "name": "Nettelnburg",
-    "lat": 53.487888,
-    "long": 10.181408,
-    "result": 0.04030844724851034,
-    "weight": 491.0
+    "id": "8000141",
+    "name": "Tübingen Hbf",
+    "lat": 48.515811,
+    "long": 9.055407,
+    "result": 727.4125874125874,
+    "weight": 558.2
   },
   {
     "id": "8089069",
     "name": "Berlin-Köpenick",
     "lat": 52.45861,
     "long": 13.580942,
-    "result": 0.03962101636520241,
+    "result": 725.8695652173913,
     "weight": 486.65
   },
   {
-    "id": "8089131",
-    "name": "Wedding",
-    "lat": 52.543251,
-    "long": 13.36817,
-    "result": 0.03760373443983402,
-    "weight": 622.15
+    "id": "8004130",
+    "name": "München Harras",
+    "lat": 48.117747,
+    "long": 11.536311,
+    "result": 723.2116788321168,
+    "weight": 803.95
+  },
+  {
+    "id": "8011102",
+    "name": "Berlin Gesundbrunnen",
+    "lat": 52.548963,
+    "long": 13.388513,
+    "result": 717.7173913043479,
+    "weight": 954.9
+  },
+  {
+    "id": "8089026",
+    "name": "Nöldnerplatz",
+    "lat": 52.503497,
+    "long": 13.484452,
+    "result": 714.6368715083798,
+    "weight": 462.5
+  },
+  {
+    "id": "8000106",
+    "name": "Frankfurt-Höchst",
+    "lat": 50.102634,
+    "long": 8.54237,
+    "result": 712.3699421965318,
+    "weight": 662.25
+  },
+  {
+    "id": "8005769",
+    "name": "Stuttgart-Bad Cannstatt",
+    "lat": 48.801377,
+    "long": 9.217531,
+    "result": 711.8518518518518,
+    "weight": 570.1
+  },
+  {
+    "id": "8011306",
+    "name": "Berlin-Friedrichstraße",
+    "lat": 52.520373,
+    "long": 13.3872056,
+    "result": 708.882833787466,
+    "weight": 1097.1
+  },
+  {
+    "id": "8003137",
+    "name": "Jungfernstieg",
+    "lat": 53.552194,
+    "long": 9.993883,
+    "result": 706.9090909090909,
+    "weight": 851.9
+  },
+  {
+    "id": "8089059",
+    "name": "Friedrichsfelde Ost",
+    "lat": 52.514169,
+    "long": 13.520254,
+    "result": 704.872521246459,
+    "weight": 526.95
+  },
+  {
+    "id": "8005663",
+    "name": "Stadthausbrücke",
+    "lat": 53.549465,
+    "long": 9.984804,
+    "result": 701.5686274509804,
+    "weight": 693.45
+  },
+  {
+    "id": "8089045",
+    "name": "Warschauer Straße",
+    "lat": 52.505976,
+    "long": 13.451646,
+    "result": 701.0769230769231,
+    "weight": 942.0
+  },
+  {
+    "id": "8089019",
+    "name": "Jannowitzbrücke",
+    "lat": 52.51427,
+    "long": 13.419347,
+    "result": 698.3397683397683,
+    "weight": 604.55
+  },
+  {
+    "id": "8004267",
+    "name": "Harburg Rathaus",
+    "lat": 53.460694,
+    "long": 9.980463,
+    "result": 694.3080939947781,
+    "weight": 682.05
+  },
+  {
+    "id": "8003518",
+    "name": "Landungsbrücken",
+    "lat": 53.546132,
+    "long": 9.971281,
+    "result": 694.1052631578947,
+    "weight": 678.05
+  },
+  {
+    "id": "8012940",
+    "name": "Schwerin Mitte",
+    "lat": 53.626911,
+    "long": 11.405334,
+    "result": 693.8961038961039,
+    "weight": 505.45
+  },
+  {
+    "id": "8089037",
+    "name": "Savignyplatz",
+    "lat": 52.505093,
+    "long": 13.319271,
+    "result": 691.6738197424893,
+    "weight": 559.95
+  },
+  {
+    "id": "8089017",
+    "name": "Hackescher Markt",
+    "lat": 52.522622,
+    "long": 13.402364,
+    "result": 687.810650887574,
+    "weight": 527.5
+  },
+  {
+    "id": "8070090",
+    "name": "Offenbach Marktplatz",
+    "lat": 50.105855,
+    "long": 8.763633,
+    "result": 685.1798561151079,
+    "weight": 508.85
+  },
+  {
+    "id": "8000262",
+    "name": "München Ost",
+    "lat": 48.12744,
+    "long": 11.604971,
+    "result": 685.1336898395722,
+    "weight": 900.3
+  },
+  {
+    "id": "8012202",
+    "name": "Leipzig Wilhelm-Leuschner-Platz",
+    "lat": 51.335396,
+    "long": 12.375394,
+    "result": 683.9473684210526,
+    "weight": 592.0
+  },
+  {
+    "id": "8002038",
+    "name": "Frankfurt (Main) Lokalbahnhof",
+    "lat": 50.102171,
+    "long": 8.693025,
+    "result": 680.8275862068965,
+    "weight": 653.05
+  },
+  {
+    "id": "8005419",
+    "name": "München Heimeranplatz",
+    "lat": 48.132961,
+    "long": 11.5315,
+    "result": 679.1752577319587,
+    "weight": 501.8
+  },
+  {
+    "id": "8010036",
+    "name": "Berlin-Lichtenberg",
+    "lat": 52.5101355,
+    "long": 13.4966934,
+    "result": 671.8226600985222,
+    "weight": 820.45
+  },
+  {
+    "id": "8000805",
+    "name": "Barmbek",
+    "lat": 53.587458,
+    "long": 10.044164,
+    "result": 666.3673469387755,
+    "weight": 852.9
+  },
+  {
+    "id": "8006198",
+    "name": "Wandsbeker Chaussee",
+    "lat": 53.569734,
+    "long": 10.059975,
+    "result": 663.6923076923077,
+    "weight": 570.45
+  },
+  {
+    "id": "8006690",
+    "name": "Frankfurt (Main) Galluswarte",
+    "lat": 50.10403,
+    "long": 8.64472,
+    "result": 662.2058823529412,
+    "weight": 455.15
+  },
+  {
+    "id": "8002058",
+    "name": "Frankfurt (Main) Ostendstraße",
+    "lat": 50.112562,
+    "long": 8.696987,
+    "result": 661.4617940199336,
+    "weight": 492.7
+  },
+  {
+    "id": "8004158",
+    "name": "München-Pasing",
+    "lat": 48.149852,
+    "long": 11.461872,
+    "result": 653.4637964774951,
+    "weight": 917.15
+  },
+  {
+    "id": "8004429",
+    "name": "Frankfurt (Main) Konstablerwache",
+    "lat": 50.114623,
+    "long": 8.687098,
+    "result": 648.1045751633987,
+    "weight": 1047.5
+  },
+  {
+    "id": "8089047",
+    "name": "Berlin-Westkreuz",
+    "lat": 52.500737,
+    "long": 13.283966,
+    "result": 647.2371638141809,
+    "weight": 552.3
+  },
+  {
+    "id": "8006692",
+    "name": "Frankfurt (Main) Hauptwache",
+    "lat": 50.113926,
+    "long": 8.678947,
+    "result": 646.1241970021413,
+    "weight": 1023.8
+  },
+  {
+    "id": "8004661",
+    "name": "Ohlsdorf",
+    "lat": 53.620873,
+    "long": 10.031968,
+    "result": 641.0526315789474,
+    "weight": 503.95
+  },
+  {
+    "id": "8006711",
+    "name": "Bochum West",
+    "lat": 51.481459,
+    "long": 7.211223,
+    "result": 638.8235294117648,
+    "weight": 561.55
+  },
+  {
+    "id": "8004148",
+    "name": "München-Giesing",
+    "lat": 48.110803,
+    "long": 11.596346,
+    "result": 631.6332378223495,
+    "weight": 534.85
+  },
+  {
+    "id": "8089096",
+    "name": "Wittenau (Wilhelmsruher Damm)",
+    "lat": 52.597044,
+    "long": 13.334446,
+    "result": 626.71875,
+    "weight": 721.1
+  },
+  {
+    "id": "8005778",
+    "name": "Stuttgart-Zuffenhausen",
+    "lat": 48.829415,
+    "long": 9.166739,
+    "result": 621.7989417989418,
+    "weight": 584.4
+  },
+  {
+    "id": "8010041",
+    "name": "Berlin-Schöneweide Pbf",
+    "lat": 52.455127,
+    "long": 13.509395,
+    "result": 619.5770392749245,
+    "weight": 827.85
+  },
+  {
+    "id": "8089044",
+    "name": "Berlin Brandenburger Tor",
+    "lat": 52.516506,
+    "long": 13.381815,
+    "result": 618.688524590164,
+    "weight": 605.8
+  },
+  {
+    "id": "8000114",
+    "name": "Fürth (Bay) Hbf",
+    "lat": 49.469707,
+    "long": 10.989988,
+    "result": 618.3807439824946,
+    "weight": 597.0
   },
   {
     "id": "8089080",
     "name": "Berlin-Pankow",
     "lat": 52.566477,
     "long": 13.41077,
-    "result": 0.03623529411764706,
+    "result": 617.1428571428571,
     "weight": 779.45
   },
   {
-    "id": "8089011",
-    "name": "Greifswalder Straße",
-    "lat": 52.54002,
-    "long": 13.439561,
-    "result": 0.035333333333333335,
-    "weight": 466.15
+    "id": "8011118",
+    "name": "Berlin Potsdamer Platz",
+    "lat": 52.509379,
+    "long": 13.375988,
+    "result": 616.0,
+    "weight": 863.15
   },
   {
-    "id": "8089033",
-    "name": "Prenzlauer Allee",
-    "lat": 52.544615,
-    "long": 13.426412,
-    "result": 0.034614744549841904,
-    "weight": 476.55
+    "id": "8011901",
+    "name": "Berlin-Hohenschönhausen",
+    "lat": 52.5660016,
+    "long": 13.5124218,
+    "result": 613.2057416267943,
+    "weight": 469.0
   },
   {
-    "id": "8089013",
-    "name": "Berlin Frankfurter Allee",
-    "lat": 52.515168,
-    "long": 13.47441,
-    "result": 0.03327202808894834,
-    "weight": 654.25
+    "id": "8089089",
+    "name": "Berlin-Tegel",
+    "lat": 52.587998,
+    "long": 13.289781,
+    "result": 612.8,
+    "weight": 637.8
   },
   {
-    "id": "8089106",
-    "name": "Innsbrucker Platz",
-    "lat": 52.478084,
-    "long": 13.342197,
-    "result": 0.032570603999175426,
-    "weight": 518.65
+    "id": "8089050",
+    "name": "Yorckstraße",
+    "lat": 52.49117,
+    "long": 13.372128,
+    "result": 612.5118483412323,
+    "weight": 657.15
   },
   {
-    "id": "8089020",
-    "name": "Landsberger Allee",
-    "lat": 52.529593,
-    "long": 13.454567,
-    "result": 0.03212313869834365,
-    "weight": 702.8
-  },
-  {
-    "id": "8089109",
-    "name": "Berlin-Halensee",
-    "lat": 52.496254,
-    "long": 13.290326,
-    "result": 0.031908365718960933,
-    "weight": 471.6
-  },
-  {
-    "id": "8089112",
-    "name": "Heidelberger Platz",
-    "lat": 52.479972,
-    "long": 13.312018,
-    "result": 0.031275551921504496,
-    "weight": 523.25
-  },
-  {
-    "id": "8089039",
-    "name": "Schönhauser Allee",
-    "lat": 52.5492,
-    "long": 13.41546,
-    "result": 0.031166666666666665,
-    "weight": 555.15
-  },
-  {
-    "id": "8089107",
-    "name": "Bundesplatz",
-    "lat": 52.477617,
-    "long": 13.32959,
-    "result": 0.0306017662764428,
-    "weight": 506.55
-  },
-  {
-    "id": "8089105",
-    "name": "Hermannstraße",
-    "lat": 52.46751,
-    "long": 13.431313,
-    "result": 0.02889294403892944,
-    "weight": 597.95
-  },
-  {
-    "id": "8089090",
-    "name": "Berlin-Tempelhof",
-    "lat": 52.470967,
-    "long": 13.384547,
-    "result": 0.028561884082178052,
-    "weight": 568.2
+    "id": "8011167",
+    "name": "Jungfernheide",
+    "lat": 52.530276,
+    "long": 13.299437,
+    "result": 612.2485207100592,
+    "weight": 784.9
   },
   {
     "id": "8089004",
     "name": "Baumschulenweg",
     "lat": 52.467244,
     "long": 13.490097,
-    "result": 0.0273656920639493,
+    "result": 612.0,
     "weight": 494.95
   },
   {
-    "id": "8089110",
-    "name": "Messe Nord / ICC (Witzleben)",
-    "lat": 52.507525,
-    "long": 13.283445,
-    "result": 0.02734107997265892,
-    "weight": 657.15
+    "id": "8089002",
+    "name": "Berlin Anhalter Bahnhof",
+    "lat": 52.503486,
+    "long": 13.381362,
+    "result": 611.442542787286,
+    "weight": 496.8
+  },
+  {
+    "id": "8089024",
+    "name": "Berlin-Nordbahnhof",
+    "lat": 52.532066,
+    "long": 13.388464,
+    "result": 609.2054794520548,
+    "weight": 676.6
+  },
+  {
+    "id": "8089034",
+    "name": "Priesterweg",
+    "lat": 52.459914,
+    "long": 13.356281,
+    "result": 607.4708171206225,
+    "weight": 559.2
+  },
+  {
+    "id": "8089131",
+    "name": "Wedding",
+    "lat": 52.543251,
+    "long": 13.36817,
+    "result": 606.2068965517242,
+    "weight": 622.15
+  },
+  {
+    "id": "8089012",
+    "name": "Feuerbachstraße",
+    "lat": 52.463546,
+    "long": 13.332575,
+    "result": 604.1935483870968,
+    "weight": 683.75
+  },
+  {
+    "id": "8002045",
+    "name": "Frankfurt-Eschersheim",
+    "lat": 50.158583,
+    "long": 8.655431,
+    "result": 600.3636363636364,
+    "weight": 559.0
+  },
+  {
+    "id": "8089008",
+    "name": "Bornholmer Straße",
+    "lat": 52.554491,
+    "long": 13.397943,
+    "result": 597.5871313672923,
+    "weight": 558.9
+  },
+  {
+    "id": "8089036",
+    "name": "Rathaus Steglitz",
+    "lat": 52.455833,
+    "long": 13.322948,
+    "result": 594.8663101604278,
+    "weight": 728.9
+  },
+  {
+    "id": "8089020",
+    "name": "Landsberger Allee",
+    "lat": 52.529593,
+    "long": 13.454567,
+    "result": 594.6875,
+    "weight": 702.8
   },
   {
     "id": "8089052",
     "name": "Berlin-Adlershof",
     "lat": 52.435031,
     "long": 13.541129,
-    "result": 0.02728226652675761,
+    "result": 593.8461538461538,
     "weight": 523.35
+  },
+  {
+    "id": "8089013",
+    "name": "Berlin Frankfurter Allee",
+    "lat": 52.515168,
+    "long": 13.47441,
+    "result": 590.0502512562814,
+    "weight": 654.25
+  },
+  {
+    "id": "8089105",
+    "name": "Hermannstraße",
+    "lat": 52.46751,
+    "long": 13.431313,
+    "result": 589.578947368421,
+    "weight": 597.95
   },
   {
     "id": "8089077",
     "name": "Berlin-Neukölln",
     "lat": 52.46942,
     "long": 13.44306,
-    "result": 0.026946532406750816,
+    "result": 588.9473684210526,
     "weight": 712.0
   },
   {
-    "id": "8001520",
-    "name": "Dortmund-Stadthaus",
-    "lat": 51.507828,
-    "long": 7.468764,
-    "result": 0.016614745586708203,
-    "weight": 488.6
+    "id": "8004128",
+    "name": "München Donnersbergerbrücke",
+    "lat": 48.142623,
+    "long": 11.536537,
+    "result": 586.8313953488372,
+    "weight": 848.6
+  },
+  {
+    "id": "8089033",
+    "name": "Prenzlauer Allee",
+    "lat": 52.544615,
+    "long": 13.426412,
+    "result": 584.7115384615385,
+    "weight": 476.55
+  },
+  {
+    "id": "8089039",
+    "name": "Schönhauser Allee",
+    "lat": 52.5492,
+    "long": 13.41546,
+    "result": 583.9572192513369,
+    "weight": 555.15
+  },
+  {
+    "id": "8004473",
+    "name": "Nürnberg Rothenburger Straße",
+    "lat": 49.4454,
+    "long": 11.055338,
+    "result": 582.8571428571429,
+    "weight": 462.6
+  },
+  {
+    "id": "8089011",
+    "name": "Greifswalder Straße",
+    "lat": 52.54002,
+    "long": 13.439561,
+    "result": 582.4528301886793,
+    "weight": 466.15
+  },
+  {
+    "id": "8089474",
+    "name": "Schöneberg",
+    "lat": 52.479377,
+    "long": 13.352068,
+    "result": 581.9021739130435,
+    "weight": 767.8
+  },
+  {
+    "id": "8089107",
+    "name": "Bundesplatz",
+    "lat": 52.477617,
+    "long": 13.32959,
+    "result": 581.4765100671141,
+    "weight": 506.55
+  },
+  {
+    "id": "8089098",
+    "name": "Berlin-Zehlendorf",
+    "lat": 52.431067,
+    "long": 13.258659,
+    "result": 580.8,
+    "weight": 685.7
+  },
+  {
+    "id": "8089112",
+    "name": "Heidelberger Platz",
+    "lat": 52.479972,
+    "long": 13.312018,
+    "result": 580.3921568627451,
+    "weight": 523.25
   },
   {
     "id": "8089104",
     "name": "Köllnische Heide",
     "lat": 52.469653,
     "long": 13.467807,
-    "result": 0.015540944411237299,
+    "result": 579.2307692307693,
     "weight": 464.6
+  },
+  {
+    "id": "8089106",
+    "name": "Innsbrucker Platz",
+    "lat": 52.478084,
+    "long": 13.342197,
+    "result": 578.3544303797469,
+    "weight": 518.65
+  },
+  {
+    "id": "8089090",
+    "name": "Berlin-Tempelhof",
+    "lat": 52.470967,
+    "long": 13.384547,
+    "result": 577.5438596491229,
+    "weight": 568.2
+  },
+  {
+    "id": "8006700",
+    "name": "Stuttgart Stadtmitte",
+    "lat": 48.776229,
+    "long": 9.172925,
+    "result": 575.4689564068692,
+    "weight": 836.15
+  },
+  {
+    "id": "8089537",
+    "name": "Julius-Leber-Brücke",
+    "lat": 52.486519,
+    "long": 13.361266,
+    "result": 574.1176470588235,
+    "weight": 498.7
+  },
+  {
+    "id": "8089110",
+    "name": "Messe Nord / ICC (Witzleben)",
+    "lat": 52.507525,
+    "long": 13.283445,
+    "result": 573.0,
+    "weight": 657.15
+  },
+  {
+    "id": "8005767",
+    "name": "Stuttgart Nord",
+    "lat": 48.803769,
+    "long": 9.188026,
+    "result": 570.9677419354839,
+    "weight": 501.3
+  },
+  {
+    "id": "8089109",
+    "name": "Berlin-Halensee",
+    "lat": 52.496254,
+    "long": 13.290326,
+    "result": 570.3846153846154,
+    "weight": 471.6
+  },
+  {
+    "id": "8006699",
+    "name": "Stuttgart Feuersee",
+    "lat": 48.772768,
+    "long": 9.166273,
+    "result": 568.8774193548387,
+    "weight": 603.9
+  },
+  {
+    "id": "8004131",
+    "name": "München Isartor",
+    "lat": 48.134202,
+    "long": 11.583234,
+    "result": 564.7516930022573,
+    "weight": 573.55
+  },
+  {
+    "id": "8004136",
+    "name": "München Rosenheimer Platz",
+    "lat": 48.129168,
+    "long": 11.593049,
+    "result": 564.4345403899722,
+    "weight": 604.2
+  },
+  {
+    "id": "8004134",
+    "name": "München Leuchtenbergring",
+    "lat": 48.13425,
+    "long": 11.615986,
+    "result": 564.4099378881988,
+    "weight": 475.45
+  },
+  {
+    "id": "8004179",
+    "name": "München-Hirschgarten",
+    "lat": 48.14354,
+    "long": 11.519245,
+    "result": 555.1351351351351,
+    "weight": 492.25
+  },
+  {
+    "id": "8004151",
+    "name": "München-Laim Pbf",
+    "lat": 48.144371,
+    "long": 11.503669,
+    "result": 554.7155499367889,
+    "weight": 627.05
+  },
+  {
+    "id": "8004132",
+    "name": "München Karlsplatz",
+    "lat": 48.139452,
+    "long": 11.565619,
+    "result": 552.5429017160686,
+    "weight": 961.95
+  },
+  {
+    "id": "8004129",
+    "name": "München-Hackerbrücke",
+    "lat": 48.141969,
+    "long": 11.548572,
+    "result": 550.7153576788394,
+    "weight": 629.55
+  },
+  {
+    "id": "8004135",
+    "name": "München Marienplatz",
+    "lat": 48.137048,
+    "long": 11.575386,
+    "result": 548.1900910010111,
+    "weight": 991.85
   }
 ]

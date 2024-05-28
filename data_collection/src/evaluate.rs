@@ -23,7 +23,6 @@ pub fn evaluate(product_type: ProductType, evaluation_mode: EvaluationMode) -> e
     let stations_file = File::open("stations.json")?;
     let stations: Vec<Station> = serde_json::from_reader(stations_file)?;
     let mut station_map: HashMap<String, Vec<Trip>> = HashMap::with_capacity(stations.len());
-    let mut trips_map: HashMap<Station, i32> = HashMap::with_capacity(200);
     info!("Starting to parse {} stations", stations.len());
 
     for station in &stations {
@@ -53,16 +52,22 @@ pub fn evaluate(product_type: ProductType, evaluation_mode: EvaluationMode) -> e
     info!("Done, sorting...");
     let mut sorted_map: HashMap<String, f64> = HashMap::with_capacity(station_map.len());
     for entry in station_map {
+        //https://de.wikipedia.org/wiki/P%C3%BCnktlichkeit_(Bahn)#Terminologie
+        let delay_threshold = 60 * 6;
+        let delayed_trips = entry.1.iter().filter(|trip| trip.delay >= delay_threshold);
+        if entry.1.is_empty() {
+            continue;
+        }
         match evaluation_mode {
             EvaluationMode::DelayPercentage => {
-                //https://de.wikipedia.org/wiki/P%C3%BCnktlichkeit_(Bahn)#Terminologie
-                let delay_threshold = 60 * 6;
-                let delayed_trips = entry.1.iter().filter(|trip| trip.delay >= delay_threshold).count() as f64;
-                if entry.1.is_empty() {
-                    continue;
-                }
-                let delay_percentage = delayed_trips / entry.1.len() as f64;
+                let delay_percentage = delayed_trips.count() as f64 / entry.1.len() as f64;
                 sorted_map.insert(entry.0, delay_percentage);
+            }
+            EvaluationMode::AverageDelayTime {} => {
+                let mut total_delays = 0;
+                delayed_trips.clone().for_each(|trip| total_delays += trip.delay);
+                let average_delay = total_delays as f64 / delayed_trips.count() as f64;
+                sorted_map.insert(entry.0, average_delay);
             }
         }
     }
