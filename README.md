@@ -1,7 +1,11 @@
 # BahnMap
 
-This is a project to collect data for a presentation I have to do as part of my high-school final exams.
+Dies ist das Projekt für meine Eigenleistung in der 5. Prüfungskomponente meiner Abiturprüfung.
 
-It collects the delay of trains at the most busy stations in Germany, for later analysis.
+Es besteht aus drei Komponenten (Ordnern):
+- data_collection: Dies ist das Programm welches die Daten von der DB abfragt und später auswertet.
+- map: Dies ist die Website welche die ausgewerteten Daten auf einer Deutschlandkarte anzeigt:
+- images: In diesem Ordner befinden sich alle im Vortrag genutzten Bilder, welche aus den ausgewerteten Daten entstanden sind.
 
-The API used is: https://v6.db.transport.rest/api.html
+
+Für die Abfrage der Rohdaten habe ich diese API benutzt: https://v6.db.transport.rest/api.html
